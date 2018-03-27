@@ -3,7 +3,7 @@ package high_or_low;
 
 /**
  *
- * @author KG_Medel
+ * @author kimgabriell
  */
 public class High_or_Low {
     
